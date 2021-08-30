@@ -1,5 +1,5 @@
 ---
-title: 'My Story So Far - 2021'
+title: 'My Story So Far'
 description: "It's difficult to know where to begin with this first post, presumably of many more to come."
 publishDate: 'Monday, August 30 2021'
 author: 'Craig R Broughton'
